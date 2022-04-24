@@ -6,7 +6,7 @@ A very simple function to measure the execution time of your functions and retur
 from py_func_exec_time import get_exec_time_timeit
 
 
-def awesome_func(*args **kwargs):
+def awesome_func(*args, **kwargs):
     ...
 
 
